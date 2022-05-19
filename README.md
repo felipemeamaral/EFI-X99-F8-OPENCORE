@@ -69,10 +69,12 @@ And now you should be able to boot from Opencore.
 
 **Proof**
 
+![About](Proof/About.png?raw=true)
+![Temps](Proof/Temps.png?raw=true)
 ![GPU](Proof/GPU.png?raw=true)
-![Alt text](Proof/Audio.png?raw=true)
-![Alt text](Proof/Bluetooth.png?raw=true)
-![Alt text](Proof/USB.png?raw=true)
-![Alt text](Proof/RAM.png?raw=true)
-![Alt text](Proof/NVME.png?raw=true)
+![Audio](Proof/Audio.png?raw=true)
+![Bluetooth](Proof/Bluetooth.png?raw=true)
+![USB](Proof/USB.png?raw=true)
+![RAM](Proof/RAM.png?raw=true)
+![NVME](Proof/NVME.png?raw=true)
 
