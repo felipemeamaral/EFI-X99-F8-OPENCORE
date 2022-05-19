@@ -62,3 +62,14 @@ Advanced > CSM Configuration > CSM Support > [Disabled]
 
 And now you should be able to boot from Opencore.
 
+---
+
+**Proof**
+
+![GPU](Proof/GPU.png?raw=true)
+![Alt text](Proof/Audio.png?raw=true)
+![Alt text](Proof/Bluetooth.png?raw=true)
+![Alt text](Proof/USB.png?raw=true)
+![Alt text](Proof/RAM.png?raw=true)
+![Alt text](Proof/NVME.png?raw=true)
+
