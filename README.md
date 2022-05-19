@@ -4,13 +4,13 @@ This file contains all the files needed to setup a working machine on macOS Mont
 Follow down all the specs of my rig and it's working state:
 
 ```
-HUANANZHI X99 F8
-Xeon E5 2699 V3 (18-cores 36-threads 45MB cache)
-RX 560 4GB HUANANZHI
-4x 16GB DDR4 2133 Atermiter
-1TB NVME M.2 XrayDisk
-1TB NVME Netac NV3000
-Fenvi FV-HB1200 Wi-fi 2.5/5GHz BT4.0 PCI-E
+Mobo: HUANANZHI X99 F8
+CPU: Xeon E5 2699 V3 (18-cores 36-threads 45MB cache)
+GPU: RX 560 4GB HUANANZHI
+RAM: 4x 16GB DDR4 2133 Atermiter
+NVME: 1TB NVME M.2 XrayDisk
+NVME: 1TB NVME Netac NV3000
+Wifi/BT: Fenvi FV-HB1200 Wi-fi 2.5/5GHz BT4.0 PCI-E
 ```
 
 What's working: Everything
