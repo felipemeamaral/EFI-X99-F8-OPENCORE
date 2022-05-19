@@ -17,9 +17,9 @@ OS: macOS Monterey 12.3.1
 What's working: Everything
 ```
 GPU Acceleration - Working HDMI and 4k Resolution OOB - haven't tested any DP
-Audio - Working but only after setting the `layout-id` to `7`
+Audio - Working but only after setting the "layout-id" to "7"
 Wi-fi - Working
-Bluetooth - Working but only after setting the BT card as `internal` and disconnect the USB2.0 case pins from motherboard
+Bluetooth - Working but only after setting the BT card as "Internal" and disconnect the USB2.0 case pins from motherboard
 USB3 - All USB 3.0 ports are working
 AirDrop - Working after Bluetooth setup
 iMessage/Facetime - Working
