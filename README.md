@@ -12,6 +12,7 @@ NVME: 1TB NVME M.2 XrayDisk
 NVME: 1TB NVME Netac NV3000
 Wifi/BT: Fenvi FV-HB1200 Wi-fi 2.5/5GHz BT4.0 PCI-E
 OS: macOS Monterey 12.3.1
+SMBIOS: iMacPro1,1
 ```
 
 What's working: Everything
