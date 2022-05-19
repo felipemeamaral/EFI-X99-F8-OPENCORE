@@ -4,7 +4,7 @@ This file contains all the files needed to setup a working machine on macOS Mont
 Follow down all the specs of my rig and it's working state:
 
 ```
-Mobo: HUANANZHI X99 F8
+Motherboard: HUANANZHI X99 F8
 CPU: Xeon E5 2699 V3 (18-cores 36-threads 45MB cache)
 GPU: RX 560 4GB HUANANZHI
 Audio Codec: ALC883
