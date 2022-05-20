@@ -17,7 +17,7 @@ OS: macOS Monterey 12.3.1
 SMBIOS: iMacPro1,1
 ```
 
-What's working: Everything
+What's working: Everything minus `Sleep` (that's a bummer on X99 platform) :
 ```
 GPU Acceleration - Working HDMI and 4k Resolution OOB - haven't tested any DP
 Audio - Working but only after setting the "layout-id" to "7"
